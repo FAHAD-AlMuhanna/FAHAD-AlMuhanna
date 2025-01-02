@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Fahad AlMuhanna 👋🏼:
 # 💫 About Me:
-👨🏼‍🎓 Computer engineering student at KFUPM                                                                                               
+👨🏼‍🎓 Computer engineering senior student at KFUPM                                                                                               
 👨🏼‍💻 Working on my own projects
 
 
