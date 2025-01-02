@@ -2,8 +2,8 @@
 
 # Hello World!, I'm Fahad AlMuhanna 👋🏼:
 # 💫 About Me:
-🛜 I'm a passionate computer engineering student at KFUPM with a strong interest in technology, problem-solving, and innovation. I enjoy working on projects that combine hardware and software to create impactful solutions. My areas of focus include programming, networking, and exploring the latest advancements in AI and deep learning. I'm eager to continue learning, growing, and contributing to the tech world.I'm a passionate computer engineering student at KFUPM with a strong interest in technology, problem-solving, and innovation. I enjoy working on projects that combine hardware and software to create impactful solutions. My areas of focus include programming, networking, and exploring the latest advancements in AI and deep learning. I'm eager to continue learning, growing, and contributing to the tech world.
-
+👨🏼‍🎓 I'm a passionate computer engineering student at KFUPM with a strong interest in technology.
+👨🏼‍💻 Working on my own projects
 
 
 # 💻 Tech Stack:
